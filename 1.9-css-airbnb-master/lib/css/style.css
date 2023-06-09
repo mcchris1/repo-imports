@@ -1,0 +1,58 @@
+/*free font-identifer app?
+screw it I'm going Helvetica*/
+* {
+  font-family: Helvetica;
+  background-color: rgb(236,239,236);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(139,124,124);
+}
+
+h2 {
+  color: rgb(150,150,150);
+  font-size: .75em;
+}
+
+.citywok {
+  display: flex;
+  flex-direction: row;
+}
+
+.city {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  height: 200px; 
+  color: white;
+  background-size: cover;
+}
+
+#sf1 {
+  background-image: url('../img/san-francisco.jpg');
+}
+
+#ny {
+  background-image: url('../img/new-york.jpg');
+}
+
+#ldn {
+  background-image: url('../img/london.jpg');
+}
+
+#napa {
+  background-image: url('../img/napa.jpg');
+}
+
+#son {
+  background-image: url('../img/sonoma.jpg');
+}
+
+#sf2 {
+  background-image: url('../img/san-francisco-2.jpg');
+}
