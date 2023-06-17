@@ -1,0 +1,25 @@
+.active {
+  background-color: #149902;
+  color: #fff;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.row {
+  text-align: center;
+  margin: 10px;
+}
+
+.letter {
+  display: inline-block;
+  padding: 5px 10px;
+  border: 1px solid #000;
+  text-transform: uppercase;
+}
+
+.input-form {
+  margin-top: 50px;
+  text-align: center;
+}
