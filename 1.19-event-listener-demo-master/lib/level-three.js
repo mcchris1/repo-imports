@@ -1,4 +1,0 @@
-/*
- * DOTS: Level Three
- *
- */
