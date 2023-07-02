@@ -1,0 +1,27 @@
+{
+  "name": "mcdetritus-resume",
+  "version": "1.0.0",
+  "description": "best they is",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/mcchris1/npm-resume.git"
+  },
+  "keywords": [
+    "best",
+    "resume"
+  ],
+  "author": "mcdetritus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mcchris1/npm-resume/issues"
+  },
+  "homepage": "https://github.com/mcchris1/npm-resume#readme"
+  
+  "bin": {
+    "resume-me": "./index.js"
+  },
+}
