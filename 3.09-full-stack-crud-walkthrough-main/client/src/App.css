@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  font-size: 26px;
+}
+
+.cat-image {
+  height: 300px;
+}
