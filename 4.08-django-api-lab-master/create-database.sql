@@ -1,0 +1,7 @@
+CREATE DATABASE django_api;
+
+CREATE USER admin WITH PASSWORD '12345';
+
+ALTER DATABASE django_api OWNER TO admin;
+
+GRANT ALL PRIVILEGES ON DATABASE django_api TO admin;
